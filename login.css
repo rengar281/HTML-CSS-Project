@@ -1,0 +1,9 @@
+body{
+    background-image: url(u9tJsRChVqD0bu4lNBSErNVSDyE.avif);
+}
+input:valid{
+    outline-color: chartreuse;
+}
+input:invalid{
+    outline-color: red;
+}
